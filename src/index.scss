@@ -1,0 +1,6 @@
+@import "styles/shared/variables";
+
+body{
+  background: lighten(grey, 44%);
+  font: $primary-font;
+}
